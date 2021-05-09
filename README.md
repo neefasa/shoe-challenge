@@ -2,7 +2,7 @@ Fall 2021 Data Science Intern Challenge
 
 Submission by: Nicholas Foster
 
-Email: nkfoster@gmail.com
+Email: nkfoster at gmail dot com
 
 
 
